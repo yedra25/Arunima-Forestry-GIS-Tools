@@ -7,7 +7,7 @@ The following tools are currently included in the ArcGIS Pro Forestry Geoprocess
 
 - LGFU Tool
 
-- Basal Area Tool
+- Basal Area Tool (Note: BaTable.py is a supporting Python module containing reference dictionaries used by the Basal Area Tool, rather than a standalone geoprocessing tool.
 
 - Deer Thermal Cover Tool
 
