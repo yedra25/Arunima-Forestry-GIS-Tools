@@ -1,3 +1,5 @@
+# Deer Critical Thermal Cover Tool
+
 Evaluates forest stands for deer thermal cover using tree species composition, stocking, and stand height.
 
 **Requirements:** Ensure the required species composition, stocking, and height fields are available.
