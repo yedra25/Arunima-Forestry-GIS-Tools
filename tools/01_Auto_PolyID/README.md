@@ -1,4 +1,4 @@
-**# Auto PolyID Tool**
+# Auto PolyID Tool
 
 Creates and populates an AutoPolyID field with sequential unique IDs (1, 2, 3, ...) for all features in the selected layer.
 
