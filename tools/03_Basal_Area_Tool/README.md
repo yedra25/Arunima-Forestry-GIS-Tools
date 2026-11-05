@@ -1,4 +1,4 @@
-# Basal Area Tool
+# Basal Area Tool [BA Tool]
 
 Calculates a Plonski-based basal area for forest stands using tree species composition, stocking, stand age, and site class information.
 
