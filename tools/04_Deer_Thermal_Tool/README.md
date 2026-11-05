@@ -1,4 +1,4 @@
-# Deer Critical Thermal Cover Tool
+# Deer Critical Thermal Cover Tool [DEER Tool]
 
 Evaluates forest stands for deer thermal cover using tree species composition, stocking, and stand height.
 
