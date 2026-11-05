@@ -5,3 +5,5 @@ Calculates a Plonski-based basal area for forest stands using tree species compo
 **Requirements:**  Ensure the species composition fields have been parsed out using the eFRI Tool.
 
 **Output:** A field populated with average ‘Plonski_BA’ measured in (m2/ha) field containing the calculated basal area for each forest polygon.
+
+**Note: Make sure the Ba Table file is in the same folder or toolbox as the Basal Area Tool for the tool to run properly.**
