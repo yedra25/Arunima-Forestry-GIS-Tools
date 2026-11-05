@@ -1,4 +1,4 @@
-# LGFU Tool
+# LGFU Tool [EFRI Tool]
 
 - Add a new field for each species used in OLT LGFU SQL.
 - Calculate individual species proportions based on the Species Composition (SPCOMP) field.
